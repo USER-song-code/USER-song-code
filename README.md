@@ -49,7 +49,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/coderazhe/coderazhe/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是小哲同学。热爱编程、读书。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -63,11 +63,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/coderazhe/coderazhe/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jan 01 - [2025 → 2026，给时光以生命，待岁月以温柔！](https://blog.guoqi.dev/posts/2025/)
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
+
 <!-- feed end -->
 
 </td></tr>
@@ -187,12 +183,12 @@ No Activity Tracked This Week
 
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=coderazhe&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
-</table>
+</table> -->
 
 </div>
 
@@ -275,11 +271,11 @@ No Activity Tracked This Week
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/coderazhe/coderazhe/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderazhe/coderazhe/github-metrics.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+![Alt](https://repobeats.axiom.co/api/embed/e598475a84e7bc03af96cf756578310bb6f81902.svg "Repobeats analytics image")
 
 <img src="https://cdn.jsdelivr.net/gh/coderazhe/coderazhe/assets/images/icon.png" />
 </div>
